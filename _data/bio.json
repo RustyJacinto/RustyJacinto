@@ -2,14 +2,14 @@
   "basics": {
     "name": "Rusty Jacinto",
     "label": "Student",
-    "picture": "https://RustyJacinto.github.io/images/rusty.jpg",
-    "email": "rusty7@hawaii.edu",
-    "phone": "808-286-5204",
-    "website": "https://RustyJacinto.github.io",
+    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "email": "molly@hawaii.edu",
+    "phone": "808-333-4444",
+    "website": "https://mmaluhia.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
-      "postalCode": "",
+      "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,52 +17,77 @@
     "profiles": [
       {
         "network": "github",
-        "username": "RustyJacinto",
-        "url": "http://github.com/RustyJacinto"
+        "username": "mmaluhia",
+        "url": "http://github.com/changeme"
       },
       {
         "network": "linkedin",
-        "username": "Rusty James Jacinto",
-        "url": "http://linkedin.com/in/rusty-james-jacinto-350007178/"
+        "username": "mollymaluhia",
+        "url": "http://linkedin.com/in/changeme"
+      },
+      {
+        "network": "twitter",
+        "username": "mollymal",
+        "url": "http://twitter.com/changeme"
+      },
+      {
+        "network": "instagram",
+        "username": "molly",
+        "url": "http://instagram.com/changeme"
       }
     ]
   },
   "interests": [
     {
-      "name": "Gaming",
+      "name": "internet of things",
       "keywords": [
-        "Fighting games",
-        "Puzzle games",
-        "Anything really"
+        "Arduino",
+        "TI MSP430"
       ]
     },
     {
-      "name": "Software Development",
+      "name": "data mining",
       "keywords": [
-        "Game development",
-        "Programming",
-        "User interfaces",
-        "Artificial intelligence"
       ]
-    } 
+    },
+    {
+      "name": "artificial intelligence",
+      "keywords": [
+      ]
+    }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
+        "C",
+        "C++",
         "Java",
         "Javascript",
+        "Assembly",
+        "Common Lisp"
+      ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "level": "",
+      "keywords": [
+        "MacOS",
+        "Ubuntu",
+        "Git/GitHub",
+        "g++",
+        "TI LaunchPad"
       ]
     }
-  ]
+  ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2021)",
+      "area": "Computer Science (expected Spring, 2018)",
       "studyType": "B.S.",
-      "startDate": "2017",
-      "endDate": "TBA",
+      "startDate": "2013-09-01",
+      "endDate": "Present",
       "gpa": "",
       "courses": [
       ]
