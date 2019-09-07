@@ -10,7 +10,7 @@ labels:
   - Video Games
   - Gaming Accessories
   - Crafts
-summary: I build a cool looking fightstick to show my passion for fighting games.
+summary: I build a cool looking fightstick to show that I like fighting games.
 ---
 
   Fighting games have always been an interest for me. Having the ability to best your opponent using many types of strategies and skills was one of the coolest things you could ever do in a video game. It was only recently in the year 2018 when I started to take my interest and push it even further by getting more involved with genre of gaming. One day, my roommate asked if I wanted to join him to visit his friend's house. He told me that his friend is a top player in Hawaii. I went into it thinking that it was going to be a fun challenge, considering that Hawaii does not have much competition due to it being so isolated... I GOT BOPPED. However, that harsh loss lit a burning flame within me, as if I had the determination of a thousand men. Through the help with my roommate's friend and his group of other players, I was able to improve by a lot within a year.
