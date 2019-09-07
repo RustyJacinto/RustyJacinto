@@ -3,9 +3,9 @@ layout: project
 type: project
 image: images/micromouse.jpg
 title: I'll Look Cool While Losing at Least
-permalink: projects/micromouse
+permalink: projects/gaming
 # All dates must be YYYY-MM-DD format!
-date: 2019-08-29
+date: 2019-09-06
 labels:
   - Video Games
   - Gaming Accessories
