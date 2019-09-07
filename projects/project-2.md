@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/Sample2.png
 title: What a Banger! (I think)
 permalink: projects/music
 # All dates must be YYYY-MM-DD format!
