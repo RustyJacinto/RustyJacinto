@@ -22,4 +22,4 @@ The pictures below is an example of some of my projects. Some projects can take 
 (Sample 1: https://drive.google.com/file/d/1E3_4NJjd3kri0sj5dBZdL9yTH_nr37_q/view?usp=sharing)
 
 <img class="ui image" src="../images/Sample2.png">
-(Sample 2: )
+(Sample 2: https://drive.google.com/file/d/1P2LaMjegQw4hvIk6urL2um6BVloKpuEL/view?usp=sharing)
