@@ -18,8 +18,8 @@ Music has always been one of favorite past times. Most of the times I just just 
 
 The pictures below is an example of some of my projects. Some projects can take as long as a couple days to make (sample 1), but others can take months (sample 2)!
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui image" src="../images/Sample1.png">
 (Sample 1: https://drive.google.com/file/d/1E3_4NJjd3kri0sj5dBZdL9yTH_nr37_q/view?usp=sharing)
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui image" src="../images/Sample2.png">
 (Sample 2: )
