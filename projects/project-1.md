@@ -13,29 +13,7 @@ labels:
 summary: I build a cool looking fightstick to show my passion for fighting games.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
-</div>
+<img class="ui image" src="../images/micromouse-robot.png">
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
-
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
-
-Here is some code that illustrates how we read values from the line sensors:
-
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-
+  Fighting games have always been an interest for me. Having the ability to best your opponent using many types of strategies and skills was one of the coolest things you could ever do in a video game. It was only recently in the year 2018 when I started to take my interest and push it even further by getting more involved with genre of gaming. One day, my roommate asked if I wanted to join him to visit his friend's house. He told me that his friend is a top player in Hawaii. I went into it thinking that it was going to be a fun challenge, considering that Hawaii does not have much competition due to it being so isolated... I GOT BOPPED. However, that harsh loss lit a burning flame within me, as if I had the determination of a thousand men. Through the help with my roommate's friend and his group of other players, I was able to improve by a lot within a year.
+  One thing I noticed though was that the arcade stick that I played on was losing its value due to how worn out it was becoming.  This is because the stick I bought was cheap one that I ordered from Amazon. Eventually, I thought a upgrade was about time. Through some time saving, I was able to purchase a Razer Panthera Evo edition. Although the stick felt amazing on, I thought that the stock look that it had was very plain and boring. During a convention, I sought out to find a piece of art that I could use as the cover for my fight stick. It took days within the convention, until eventually, I found the piece that I thought was spectacular. When I got home, I did a little trimming here and there until I was able to create a controller that looked SICK. My skills have not improved a single a bit from doing that, but it does make playing games on it a lot more fun.  
