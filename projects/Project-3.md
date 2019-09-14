@@ -2,13 +2,12 @@
 layout: project
 type: project
 image: images/FightStick.jpg
-title: I'll Look Cool While Losing at Least
+title: Setting Up
 permalink: projects/gaming
 # All dates must be YYYY-MM-DD format!
-date: 2019-09-06
+date: 2019-09-13
 labels:
   - Video Games
   - Gaming Accessories
-  - Crafts
-summary: I build a cool looking fightstick to show that I like fighting games.
+summary: I take time to create my gaming setup at my new aparrtment.
 ---
