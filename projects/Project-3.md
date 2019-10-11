@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/pcsetup.png
 title: Setting up
-permalink: projects/gaming
+permalink: projects/household
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-13
 labels:
