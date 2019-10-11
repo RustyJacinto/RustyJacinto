@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/FightStick.jpg
+image: images/pcsetup.jpg
 title: Setting Up
 permalink: projects/gaming
 # All dates must be YYYY-MM-DD format!
