@@ -2,15 +2,15 @@
 layout: project
 type: project
 image: images/pcsetup.jpg
-title: ICS 314 Final Project: Clubs of Manoa
+title: Setting up
 permalink: projects/household
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-13
 labels:
-  - Software Engineering
+  - Gaming
   - Projects
-  - Meteor
-summary: My final project for ICS 314
+  - Cool Stuff
+summary: I move to a new apartment where I can make my first gaming set-up!
 ---
 
 ## The Project ##
