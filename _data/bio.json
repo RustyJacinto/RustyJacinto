@@ -57,6 +57,9 @@
       "keywords": [
         "Java",
         "Javascript",
+        "Meteor",
+        "React",
+        "CSS",
       ]
     },
     {
@@ -73,7 +76,7 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2020)",
       "studyType": "B.S.",
-      "startDate": "2017",
+      "startDate": "Fall 2016",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -86,7 +89,7 @@
       "position": "Cashier",
       "website": "",
       "startDate": "2018-03-06",
-      "endDate": "Present",
+      "endDate": "2019-01-01",
       "summary": "Completing transactions for customers.",
       "highlights": [
         ""
