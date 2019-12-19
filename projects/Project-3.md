@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/pcsetup.png
+image: images/pcsetup.jpg
 title: Setting up
 permalink: projects/household
 # All dates must be YYYY-MM-DD format!
