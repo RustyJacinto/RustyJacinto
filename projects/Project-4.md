@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/pcsetup.jpg
-title: ICS 314 Final Project: Clubs of Manoa
+title: ayy lmao
 permalink: projects/household
 # All dates must be YYYY-MM-DD format!
 date: 2019-12-18
