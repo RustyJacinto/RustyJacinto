@@ -13,6 +13,7 @@ labels:
 summary: My final project for ICS 314 about handling clubs.
 ---
 
+<img class="ui image" src="../images/landing.png">
 ## The Project ##
   For our final project for ICS 314, we are required to create a website based on the topic given to us. For us, we were given the task of creating a hub for all of the clubs from Manoa. It is suppose to be a place where students are able to easily find the clubs that they are interested in, and if there are any more clubs that could interest them. You may view the links below to see the process and functionality of the website, while also testing out the website for yourself!
 
