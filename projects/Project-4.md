@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/pcsetup.jpg
-title: ayy lmao
+title: ICS 314 Final Project
 permalink: ICS 314 Final Project
 # All dates must be YYYY-MM-DD format!
 date: 2019-12-18
