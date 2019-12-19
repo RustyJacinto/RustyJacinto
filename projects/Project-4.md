@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/pcsetup.jpg
+image: images/landing.png
 title: ICS 314 Final Project
 permalink: ICS 314 Final Project
 # All dates must be YYYY-MM-DD format!
